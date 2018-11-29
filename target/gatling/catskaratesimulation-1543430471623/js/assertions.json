@@ -1,0 +1,10 @@
+{
+  "simulation": "features.CatsKarateSimulation",
+  "simulationId": "catskaratesimulation",
+  "start": 1543430471623,
+  "description": "null",
+  "scenarios": ["create", "delete"],
+  "assertions": [
+
+  ]
+}
